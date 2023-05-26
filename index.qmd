@@ -1,0 +1,12 @@
+---
+format:
+  revealjs: 
+    theme: [default, styles.scss]
+---
+
+## Using Fira Code
+
+```{r}
+#| echo: true
+1 |> identity() != 2
+```
